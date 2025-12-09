@@ -1,0 +1,10 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "Rate limiting middleware with Redis support by L8ab Systems",
+  "main": "src/ratelimiter.js",
+  "scripts": {
+    "start": "node src/ratelimiter.js"
+  },
+  "dependencies": {}
+}
